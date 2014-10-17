@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tgf:home|Door43 (tgf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tgf|d43-tgf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tgf/archive/master.zip|d43-tgf.zip]]
+
+**Recent Changes**
+{{changes>ns = tgf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tgf|Ethnologue data]]
+
